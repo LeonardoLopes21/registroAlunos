@@ -1,3 +1,5 @@
+import aluno.Aluno;
+
 import java.sql.*;
 import java.util.Scanner;
 
